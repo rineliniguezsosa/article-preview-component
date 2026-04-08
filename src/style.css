@@ -2,10 +2,10 @@
 
 @theme {
 
-  --color-veryDarkBlue: "hsl(217, 19%, 35%)";
-  --color-desaturatedBlue: "hsl(214, 17%, 51%)";
-  --color-grayishBlue: "hsl(212, 23%, 69%)";
-  --color-lightBlue: "hsl(210, 46%, 95%)";
+  --color-veryDarkBlue: hsl(217, 19%, 35%);
+  --color-desaturatedBlue: hsl(214, 17%, 51%);
+  --color-grayishBlue: hsl(212, 23%, 69%);
+  --color-lightBlue: hsl(210, 46%, 95%);
 
   --font-sans: "Manrope", sans-serif;
 }
