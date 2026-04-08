@@ -6,6 +6,7 @@
   --color-desaturatedBlue: hsl(214, 17%, 51%);
   --color-grayishBlue: hsl(212, 23%, 69%);
   --color-lightBlue: hsl(210, 46%, 95%);
+  --color-light: hsl(0, 0%, 100%);
 
   --font-sans: "Manrope", sans-serif;
 }
